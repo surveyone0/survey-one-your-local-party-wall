@@ -1,0 +1,6 @@
+{
+  "name": "Survey One | UK Party Wall Surveyors",
+  "description": "Specialist UK Party Wall Surveyors providing expert statutory advice, notice preparation, schedules of condition, and Party Wall Awards across England & Wales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
